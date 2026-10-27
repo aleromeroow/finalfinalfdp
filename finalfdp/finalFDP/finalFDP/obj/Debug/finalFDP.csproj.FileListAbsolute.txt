@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\pontimierda\2do\fdp\finalfdp\finalFDP\finalFDP\bin\Debug\finalFDP.exe.config
+C:\Users\Usuario\Desktop\pontimierda\2do\fdp\finalfdp\finalFDP\finalFDP\bin\Debug\finalFDP.exe
+C:\Users\Usuario\Desktop\pontimierda\2do\fdp\finalfdp\finalFDP\finalFDP\bin\Debug\finalFDP.pdb
+C:\Users\Usuario\Desktop\pontimierda\2do\fdp\finalfdp\finalFDP\finalFDP\obj\Debug\finalFDP.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\pontimierda\2do\fdp\finalfdp\finalFDP\finalFDP\obj\Debug\finalFDP.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\pontimierda\2do\fdp\finalfdp\finalFDP\finalFDP\obj\Debug\finalFDP.exe
+C:\Users\Usuario\Desktop\pontimierda\2do\fdp\finalfdp\finalFDP\finalFDP\obj\Debug\finalFDP.pdb
